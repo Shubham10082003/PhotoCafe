@@ -39,3 +39,18 @@ Azure Language Studio is a comprehensive suite of AI powered language services o
 
 ## Screenshot of implementation azure services and website
 
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/a06dfbd8-6f04-44cb-896e-5c8b184ed108)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/975da4eb-6256-4542-841a-b5143e7f75cd)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/dd0bd8cc-1fed-4033-9023-df50f61bdced)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/e3469b3e-d9c7-4734-a92e-bde7a51c9a63)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/4a746967-68ef-4d43-82eb-796eeb9ab2d6)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/ebd7c5f5-4389-4745-bd83-94c4e4de7c26)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/9ea51511-f67e-4f2c-b900-5b7d730371b9)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/23eb86f6-2dda-4e51-9f0a-fb06ab6bbf8a)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/53dfca52-d0bd-4740-b8a3-1375d50bfe03)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/7029a824-a70c-46e0-b24a-cc5198f43d7b)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/c00156db-c682-4c27-b67b-fbe835be4792)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/02119538-790a-4203-91a9-476d22e691c5)
+![image](https://github.com/Shubham10082003/PhotoCafe/assets/160002639/262d0797-f652-4c39-8b15-179c9f348725)
+
+
